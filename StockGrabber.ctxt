@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StockGrabber()
+comment1.params=newObserver
+comment1.target=void\ register(Observer)
+comment2.params=deleteObserver
+comment2.target=void\ unregister(Observer)
+comment3.params=
+comment3.target=void\ notifyObserver()
+comment4.params=newIbmPrice
+comment4.target=void\ setIbmPrice(double)
+comment5.params=newAaplPrice
+comment5.target=void\ setAaplPrice(double)
+comment6.params=newGoogPrice
+comment6.target=void\ setGoogPrice(double)
+numComments=7

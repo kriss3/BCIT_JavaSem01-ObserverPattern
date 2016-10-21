@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=stockGrabber
+comment0.target=StockObserver(Subject)
+comment1.params=ibmPrice\ aaplPrice\ googPrice
+comment1.target=void\ update(double,\ double,\ double)
+comment2.params=
+comment2.target=void\ printThePrices()
+numComments=3

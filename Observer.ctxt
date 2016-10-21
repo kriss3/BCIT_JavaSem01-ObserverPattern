@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=ibmPrice\ aaplPrive\ googPrice
+comment0.target=void\ update(double,\ double,\ double)
+numComments=1
